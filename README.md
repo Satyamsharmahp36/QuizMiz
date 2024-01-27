@@ -1,8 +1,12 @@
-# React + Vite
+# QuizMiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Its an amazing quiz website for ***react learning*** . In this you can answer 5 question and on the bases of that your answer will be evaluated .
 
-Currently, two official plugins are available:
+In this quiz you can ***Highlight Questions*** and also change the ***background mode*** .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can ***Retake*** quiz for starting , but you can't ***reattempt*** the question twice in single go .
+
+Deploy Link - https://65b4f0edde5e5f8bbb2a74b8--sage-melomakarona-19e004.netlify.app/
+
+
+
